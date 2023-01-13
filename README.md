@@ -6,9 +6,12 @@
 [![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](caminho)
 [![Insta](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](caminho)
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=dan1eldev&show_icons=true&theme=radical)
+## Langs  🌱
+[![Python](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white)](caminho)
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=radical)
+## Framework
+[![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)](caminho)
+
 <!--
 **Dan1elDev/Dan1elDev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
