@@ -1,4 +1,9 @@
 ### Hi there 👋
+### Olá eu sou o Dan1elDev 👋
+
+[![Blog](https://img.shields.io/badge/Blogger-FF5722?style=for-the-badge&logo=blogger&logoColor=white)](oi)
+[![Youtube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://m.youtube.com/@AreaTechBrasil)
+
 
 <!--
 **Dan1elDev/Dan1elDev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
